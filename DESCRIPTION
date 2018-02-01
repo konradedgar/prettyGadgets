@@ -1,0 +1,13 @@
+Package: prettyGadgets
+Type: Package
+Title: Mostly Useless Functions for Generating Pretty Scales and Formats
+Version: 0.1.0
+Author: Konrad Zdeb
+Maintainer: Konrad Zdeb <Konrad.Zdeb@me.com>
+Description: The package contains a suite of mostly useless functions concerned 
+  with generating pretty scales, number formats that may come in handy when in generating charts.
+License: GPL V. 3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+LinkingTo: Rcpp
